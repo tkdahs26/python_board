@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>파이썬 게시판</title>
+</head>
+<body>
+    <h1> 간단 게시판</h1>
+    
+    <form action="/write" method="post">
+        <input type="text" name="title" placeholder="제목" required><br>
+        <textarea name="content" placeholder="내용" required></textarea><br>
+        <button type="submit">글쓰기</button>
+    </form>
+
+    <hr>
+
+    <ul>
+        {% for post in post %}
+        <li>
+            <strong>{{ post.title }}</strong>: {{ post.content }}
+        </li>
+        {% endfor %}
+    </ul>
+</body>
+</html>
