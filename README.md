@@ -5,6 +5,8 @@
 
 실행 모습
 
-<img width="308" height="257" alt="py_board3" src="https://github.com/user-attachments/assets/e4c62dba-e690-4570-9845-581ff0854b70" />
-<img width="308" height="256" alt="py_board2" src="https://github.com/user-attachments/assets/aa545758-6b18-463d-ab58-22f70a514e55" />
 <img width="308" height="256" alt="py_board1" src="https://github.com/user-attachments/assets/97eb131b-138b-486d-951d-a3eceedc7f9e" />
+
+<img width="308" height="256" alt="py_board2" src="https://github.com/user-attachments/assets/aa545758-6b18-463d-ab58-22f70a514e55" />
+
+<img width="308" height="257" alt="py_board3" src="https://github.com/user-attachments/assets/e4c62dba-e690-4570-9845-581ff0854b70" />
